@@ -5,5 +5,6 @@ public class SearchTests {
         System.out.println(newOMG?);
         System.out.println("Cool");
         System.out.println("100");
+        System.out.println("123");
     }
 }
